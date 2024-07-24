@@ -1,4 +1,4 @@
-# Alcohol-detector
+# Alcohol Detector using MQ3 Sensor
 
 Nowadays drinking and driving is the most common threat to their as well as others’ life. We cannot stop people from drinking but we can avoid these accidents by checking the person of drinking also we can put these types of small devices in vehicles to assure that no drink and drive can further take place. Today we are going to make a simple alcohol indicator that can be used in small devices or for the demonstration of simple small projects for an Alcohol detector using Arduino.
 
