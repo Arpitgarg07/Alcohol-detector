@@ -10,18 +10,20 @@ The sensor gives both digital and analog output. The difference between the two 
 
 ### FEATURES AND APPLICATIONS: –
 
-Sensitivity of Alcohol, Ethanol is good
-Easy to use and fix
-Adjustable value
-Low price
-Can be used in various alcohol detection projects
+Sensitivity of Alcohol, Ethanol is good <br>
+Easy to use and fix <br>
+Adjustable value <br>
+Low price <br>
+Can be used in various alcohol detection projects <br>
 
 
 ### COMPONENTS NEEDED: –
 
-Arduino Uno
-A red led
-An MQ-3 Alcohol sensor
-A breadboard
-Jumper wires
-220ohm resistor
+Arduino Uno <br>
+A red led <br>
+An MQ-3 Alcohol sensor <br>
+A breadboard <br>
+Jumper wires <br>
+220ohm resistor <br>
+
+![logo](https://github.com/Arpitgarg07/Alcohol-detector/blob/main/components.webp)
